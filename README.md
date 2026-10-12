@@ -1,1 +1,1 @@
-# Lab-2-Grosu-Bogdan-Si-262
+# TP SI 262 Grosu Bogdan
